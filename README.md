@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithpetr" alt="keithpetr" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Firebase**
 
-- 👨‍💻 All of my projects are available at [https://keith-portfolio-site.netlify.app/](https://keith-portfolio-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://keiths-portfolio-website.netlify.app/](https://keiths-portfolio-website.netlify.app/)]
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
