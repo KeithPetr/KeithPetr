@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Firebase**
 
-- 👨‍💻 All of my projects are available at [https://keiths-portfolio-website.netlify.app/](https://keiths-portfolio-website.netlify.app)
+- 👨‍💻 All of my projects are available at [https://keiths-portfolio-website.netlify.app](https://keiths-portfolio-website.netlify.app)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Firebase**
 
